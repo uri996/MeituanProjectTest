@@ -1,0 +1,15 @@
+:root {
+  --bg: #faf9f5;
+  --text: #30372c;
+  --muted: #8a8b7f;
+  --orange: #eb783b;
+  --green: #687e58;
+  --border: #eae8de;
+  --radius: 16px;
+  font-family: 'Inter', 'PingFang SC', 'Microsoft YaHei', system-ui, sans-serif;
+  color: var(--text);
+  background: var(--bg);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
